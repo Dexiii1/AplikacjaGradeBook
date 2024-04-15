@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "blaNFj9P6okF+v8geY3r2Dli9126PnRsJW1y2e8Bgg0xiGo+KI844IQIYPm/FpOEtp9pbI9M5/Vgv9zqns1rwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Szymon\\Desktop\\repo\\GradeBook\\GradeBook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Szymon\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
